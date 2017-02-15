@@ -1,0 +1,12 @@
+*.sql
+*.log
+base_vars.sh
+webadmin.log
+#sites/*.sh
+
+#!operations/*.sh
+#!bin/*.sh
+#!source/*.sh
+!.gitignore
+
+*.swp
